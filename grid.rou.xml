@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on Wed Oct 15 20:17:00 2025 by Eclipse SUMO duarouter Version 1.8.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/duarouterConfiguration.xsd">
+
+    <input>
+        <net-file value="/home/joahannes/project/sss4s/networks/road_networks/grid.net.xml"/>
+        <route-files value="/home/joahannes/project/sss4s/networks/road_networks/grid.trips.xml"/>
+    </input>
+
+    <output>
+        <output-file value="/home/joahannes/project/sss4s/networks/road_networks/grid.rou.xml"/>
+        <alternatives-output value="/home/joahannes/project/sss4s/networks/road_networks/grid.rou.alt.xml"/>
+    </output>
+
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vehicle id="0" depart="0.00">
+        <route edges="edge_13 edge_15 edge_5 edge_18 edge_9 edge_20 edge_6 edge_0"/>
+    </vehicle>
+</routes>

@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<additional>
+
+<poly id="poly_0" type="building" color="red" fill="1" layer="128.00" shape="11.4,-11.4 188.6,-11.4 188.6,-188.6 11.4,-188.6 11.4,-11.4"/>
+
+<poly id="poly_1" type="building" color="red" fill="1" layer="128.00" shape="11.4,-211.4 188.6,-211.4 188.6,-388.6 11.4,-388.6 11.4,-211.4"/>
+
+<poly id="poly_2" type="building" color="red" fill="1" layer="128.00" shape="211.4,-11.4 388.6,-11.4 388.6,-188.6 211.4,-188.6 211.4,-11.4"/>
+
+<poly id="poly_3" type="building" color="red" fill="1" layer="128.00" shape="211.4,-211.4 388.6,-211.4 388.6,-388.6 211.4,-388.6 211.4,-211.4"/>
+</additional>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generated on 2025-10-15 20:17:00.839969 by $Id$ v1_8_0+0044-4820708f3d
+  options: -n /home/joahannes/project/sss4s/networks/road_networks/grid.net.xml -o /home/joahannes/project/sss4s/networks/road_networks/grid.trips.xml -e 1
+-->
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <trip id="0" depart="0.00" from="edge_22" to="edge_0"/>
+</routes>
